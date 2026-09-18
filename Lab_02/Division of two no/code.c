@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
-    int a = 43;
-    int b = 6;
-    printf("%d",a/b);
+    float a = 43;
+    float b = 6;
+    printf("%f",a/b);
     return 0;
 }
